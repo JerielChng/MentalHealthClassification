@@ -1,10 +1,4 @@
-# MentalHealthClassification
-Natural Language Processing (NLP) project
-
-## NLP – Mental Health News Classification
-
-```markdown
-# Mental Health Fake News Detection
+# NLP – Mental Health News Classification
 
 Binary text classification task distinguishing real vs fake mental health-related news articles. Implements traditional and transformer-based approaches (TF-IDF + Logistic Regression vs BERT).
 
